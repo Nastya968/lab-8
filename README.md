@@ -1,1 +1,4 @@
-# lab-8
+# Devops Hometask8
+
+## Usage:
+*** vagrant up ***
